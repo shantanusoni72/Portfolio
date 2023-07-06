@@ -1,5 +1,6 @@
 ### Portfolio
-![image](https://github.com/shantanusoni72/Portfolio/assets/75296055/d72879ea-202d-47b7-b75e-5b012d839f70)
+![image](https://github.com/shantanusoni72/Portfolio/assets/75296055/3b97a421-8b2c-43ae-9fb8-952ec4ed4bee)
+
 This is my personal portfolio website. 
 Link to the project: [Click here](https://shantanusoni.netlify.app/)
 
